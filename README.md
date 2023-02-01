@@ -2,4 +2,4 @@
 Website of UWSP
 
 
-theme: cayman
+
